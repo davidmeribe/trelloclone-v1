@@ -23,12 +23,3 @@ const app = firebase.initializeApp(firebaseConfig);
 const db = app.firestore();
 
 export {db};
-
-// apiKey: "AIzaSyAbgfg71sOfcfdNRjFbJ7NvIZNV-F9FYas",
-//     authDomain: "trelloclone-v1.firebaseapp.com",
-//     databaseURL: "https://trelloclone-v1.firebaseio.com",
-//     projectId: "trelloclone-v1",
-//     storageBucket: "trelloclone-v1.appspot.com",
-//     messagingSenderId: "560243163908",
-//     appId: "1:560243163908:web:d599645ab6317a575a0651",
-//     measurementId: "G-N22DXVJ2EJ"
